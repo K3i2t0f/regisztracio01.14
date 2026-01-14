@@ -1,3 +1,4 @@
+import './style.css';
 
 const form = document.getElementById('registrationForm');
 const successMessage = document.getElementById('successMessage');
